@@ -1,0 +1,12 @@
+body {background-color: black;align-items: center; color:white}
+
+.cell {width:40px; height:40px;text-align: center}
+.cell img {width:25px; height:auto}
+.floor {background-color: gray}
+.wall {background-color: brown}
+.score { width: auto; height: 25px; margin-bottom: 15px;}
+.restart {opacity: 0; border-radius: 15%; background-color:brown; color: aliceblue;}
+.restart winner {opacity: 0;}
+
+
+
